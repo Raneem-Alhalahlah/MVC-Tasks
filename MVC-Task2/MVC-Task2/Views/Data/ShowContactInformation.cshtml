@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "ShowContactInformation";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<h2>Contact Information</h2>
+
+
+<div>
+    <h3>Name: @ViewBag.Name</h3>
+    <h3>Phone Number: @ViewBag.PhoneNumber</h3>
+    <h3>Gender: @ViewBag.Gender</h3>
+    <h3>Country: @ViewBag.Country</h3>
+    <h3>Interests:</h3>
+    <ul>
+        @foreach (var interest in ViewBag.Interests as List<string>)
+        {
+            <li>@interest</li>
+        }
+    </ul>
+</div>
