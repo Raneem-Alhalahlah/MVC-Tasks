@@ -1,26 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC-Task2\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\MVC-Tasks\\MVC-Task2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08372275-4BA2-45A0-91FF-6E0CA87159EC}|MVC-Task2\\MVC-Task2.csproj|c:\\users\\orange\\desktop\\mvc-task2\\mvc-task2\\views\\data\\contactform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{08372275-4BA2-45A0-91FF-6E0CA87159EC}|MVC-Task2\\MVC-Task2.csproj|c:\\users\\orange\\desktop\\mvc-tasks\\mvc-tasks\\mvc-task2\\mvc-task2\\views\\data\\contactform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{08372275-4BA2-45A0-91FF-6E0CA87159EC}|MVC-Task2\\MVC-Task2.csproj|solutionrelative:mvc-task2\\views\\data\\contactform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08372275-4BA2-45A0-91FF-6E0CA87159EC}|MVC-Task2\\MVC-Task2.csproj|c:\\users\\orange\\desktop\\mvc-task2\\mvc-task2\\views\\data\\showcontactinformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08372275-4BA2-45A0-91FF-6E0CA87159EC}|MVC-Task2\\MVC-Task2.csproj|solutionrelative:mvc-task2\\views\\data\\showcontactinformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08372275-4BA2-45A0-91FF-6E0CA87159EC}|MVC-Task2\\MVC-Task2.csproj|c:\\users\\orange\\desktop\\mvc-task2\\mvc-task2\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08372275-4BA2-45A0-91FF-6E0CA87159EC}|MVC-Task2\\MVC-Task2.csproj|solutionrelative:mvc-task2\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08372275-4BA2-45A0-91FF-6E0CA87159EC}|MVC-Task2\\MVC-Task2.csproj|c:\\users\\orange\\desktop\\mvc-task2\\mvc-task2\\views\\data\\submitcontactform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08372275-4BA2-45A0-91FF-6E0CA87159EC}|MVC-Task2\\MVC-Task2.csproj|solutionrelative:mvc-task2\\views\\data\\submitcontactform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08372275-4BA2-45A0-91FF-6E0CA87159EC}|MVC-Task2\\MVC-Task2.csproj|c:\\users\\orange\\desktop\\mvc-task2\\mvc-task2\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08372275-4BA2-45A0-91FF-6E0CA87159EC}|MVC-Task2\\MVC-Task2.csproj|solutionrelative:mvc-task2\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShowContactInformation.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Task2\\MVC-Task2\\Views\\Data\\ShowContactInformation.cshtml",
-              "RelativeDocumentMoniker": "MVC-Task2\\Views\\Data\\ShowContactInformation.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Task2\\MVC-Task2\\Views\\Data\\ShowContactInformation.cshtml",
-              "RelativeToolTip": "MVC-Task2\\Views\\Data\\ShowContactInformation.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T11:44:54.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SubmitContactForm.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Task2\\MVC-Task2\\Views\\Data\\SubmitContactForm.cshtml",
-              "RelativeDocumentMoniker": "MVC-Task2\\Views\\Data\\SubmitContactForm.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Task2\\MVC-Task2\\Views\\Data\\SubmitContactForm.cshtml",
-              "RelativeToolTip": "MVC-Task2\\Views\\Data\\SubmitContactForm.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T11:44:41.742Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ContactForm.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Task2\\MVC-Task2\\Views\\Data\\ContactForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\MVC-Tasks\\MVC-Task2\\MVC-Task2\\Views\\Data\\ContactForm.cshtml",
               "RelativeDocumentMoniker": "MVC-Task2\\Views\\Data\\ContactForm.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Task2\\MVC-Task2\\Views\\Data\\ContactForm.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\MVC-Tasks\\MVC-Task2\\MVC-Task2\\Views\\Data\\ContactForm.cshtml",
               "RelativeToolTip": "MVC-Task2\\Views\\Data\\ContactForm.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T11:44:25.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_LayoutPage1.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Task2\\MVC-Task2\\Views\\Shared\\_LayoutPage1.cshtml",
-              "RelativeDocumentMoniker": "MVC-Task2\\Views\\Shared\\_LayoutPage1.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Task2\\MVC-Task2\\Views\\Shared\\_LayoutPage1.cshtml",
-              "RelativeToolTip": "MVC-Task2\\Views\\Shared\\_LayoutPage1.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T11:43:45.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Task2\\MVC-Task2\\Controllers\\DataController.cs",
-              "RelativeDocumentMoniker": "MVC-Task2\\Controllers\\DataController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Task2\\MVC-Task2\\Controllers\\DataController.cs",
-              "RelativeToolTip": "MVC-Task2\\Controllers\\DataController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBwAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T11:40:30.498Z",
+              "WhenOpened": "2024-07-24T14:44:17.251Z",
               "EditorCaption": ""
             }
           ]

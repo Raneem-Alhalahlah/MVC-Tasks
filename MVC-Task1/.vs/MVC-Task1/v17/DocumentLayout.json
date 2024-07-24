@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC-Task1\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\MVC-Tasks\\MVC-Task1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A6408AB-FBD5-42B8-B17D-483734170F88}|MVC-Task1\\MVC-Task1.csproj|c:\\users\\orange\\desktop\\mvc-task1\\mvc-task1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2A6408AB-FBD5-42B8-B17D-483734170F88}|MVC-Task1\\MVC-Task1.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\MVC-Tasks\\MVC-Task1\\mvc-task1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6408AB-FBD5-42B8-B17D-483734170F88}|MVC-Task1\\MVC-Task1.csproj|solutionrelative:mvc-task1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6408AB-FBD5-42B8-B17D-483734170F88}|MVC-Task1\\MVC-Task1.csproj|c:\\users\\orange\\desktop\\mvc-tasks\\mvc-tasks\\mvc-task1\\mvc-task1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2A6408AB-FBD5-42B8-B17D-483734170F88}|MVC-Task1\\MVC-Task1.csproj|solutionrelative:mvc-task1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A6408AB-FBD5-42B8-B17D-483734170F88}|MVC-Task1\\MVC-Task1.csproj|c:\\users\\orange\\desktop\\mvc-task1\\mvc-task1\\views\\home\\regestration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2A6408AB-FBD5-42B8-B17D-483734170F88}|MVC-Task1\\MVC-Task1.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\MVC-Tasks\\MVC-Task1\\mvc-task1\\views\\home\\regestration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2A6408AB-FBD5-42B8-B17D-483734170F88}|MVC-Task1\\MVC-Task1.csproj|solutionrelative:mvc-task1\\views\\home\\regestration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A6408AB-FBD5-42B8-B17D-483734170F88}|MVC-Task1\\MVC-Task1.csproj|c:\\users\\orange\\desktop\\mvc-task1\\mvc-task1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2A6408AB-FBD5-42B8-B17D-483734170F88}|MVC-Task1\\MVC-Task1.csproj|C:\\Users\\Orange\\Desktop\\MVC-Tasks\\MVC-Tasks\\MVC-Task1\\mvc-task1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2A6408AB-FBD5-42B8-B17D-483734170F88}|MVC-Task1\\MVC-Task1.csproj|solutionrelative:mvc-task1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A6408AB-FBD5-42B8-B17D-483734170F88}|MVC-Task1\\MVC-Task1.csproj|c:\\users\\orange\\desktop\\mvc-task1\\mvc-task1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A6408AB-FBD5-42B8-B17D-483734170F88}|MVC-Task1\\MVC-Task1.csproj|solutionrelative:mvc-task1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +26,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Task1\\MVC-Task1\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\MVC-Tasks\\MVC-Task1\\MVC-Task1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVC-Task1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Task1\\MVC-Task1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\MVC-Tasks\\MVC-Task1\\MVC-Task1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MVC-Task1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-23T08:05:19.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "regestration.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Task1\\MVC-Task1\\Views\\Home\\regestration.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\MVC-Tasks\\MVC-Task1\\MVC-Task1\\Views\\Home\\regestration.cshtml",
               "RelativeDocumentMoniker": "MVC-Task1\\Views\\Home\\regestration.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Task1\\MVC-Task1\\Views\\Home\\regestration.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\MVC-Tasks\\MVC-Task1\\MVC-Task1\\Views\\Home\\regestration.cshtml",
               "RelativeToolTip": "MVC-Task1\\Views\\Home\\regestration.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T08:08:20.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Task1\\MVC-Task1\\Views\\Home\\login.cshtml",
-              "RelativeDocumentMoniker": "MVC-Task1\\Views\\Home\\login.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Task1\\MVC-Task1\\Views\\Home\\login.cshtml",
-              "RelativeToolTip": "MVC-Task1\\Views\\Home\\login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T08:07:13.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T08:08:20.311Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\MVC-Tasks\\MVC-Task1\\MVC-Task1\\Views\\Home\\login.cshtml",
+              "RelativeDocumentMoniker": "MVC-Task1\\Views\\Home\\login.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\MVC-Tasks\\MVC-Task1\\MVC-Task1\\Views\\Home\\login.cshtml",
+              "RelativeToolTip": "MVC-Task1\\Views\\Home\\login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T08:07:13.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Task1\\MVC-Task1\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\MVC-Tasks\\MVC-Task1\\MVC-Task1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVC-Task1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Task1\\MVC-Task1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC-Tasks\\MVC-Tasks\\MVC-Task1\\MVC-Task1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MVC-Task1\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAUwCsAAAABAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T08:04:11.581Z",
               "EditorCaption": ""
