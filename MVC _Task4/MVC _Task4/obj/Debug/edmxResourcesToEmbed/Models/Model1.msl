@@ -1,13 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-  <EntityContainerMapping StorageEntityContainer="Task_ProductModelStoreContainer" CdmEntityContainer="Task_ProductEntities1">
-    <EntitySetMapping Name="Product_Table">
-      <EntityTypeMapping TypeName="Task_ProductModel.Product_Table">
-        <MappingFragment StoreEntitySet="Product_Table">
-          <ScalarProperty Name="ID" ColumnName="ID" />
-          <ScalarProperty Name="Name_of_Product" ColumnName="Name of Product" />
-          <ScalarProperty Name="Description" ColumnName="Description" />
-          <ScalarProperty Name="Price" ColumnName="Price" />
+  <EntityContainerMapping StorageEntityContainer="Product_ModelStoreContainer" CdmEntityContainer="Product_Entities">
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="Product_Model.Product">
+        <MappingFragment StoreEntitySet="Products">
+          <ScalarProperty Name="ProductID" ColumnName="ProductID" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="ProDescription" ColumnName="ProDescription" />
+          <ScalarProperty Name="Category" ColumnName="Category" />
+          <ScalarProperty Name="Price_JOD" ColumnName="Price_JOD" />
+          <ScalarProperty Name="DateAdded" ColumnName="DateAdded" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

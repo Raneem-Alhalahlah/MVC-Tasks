@@ -13,10 +13,10 @@ namespace MVC__Task4.Models
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class Task_ProductEntities1 : DbContext
+    public partial class Product_Entities : DbContext
     {
-        public Task_ProductEntities1()
-            : base("name=Task_ProductEntities1")
+        public Product_Entities()
+            : base("name=Product_Entities")
         {
         }
     
@@ -25,6 +25,6 @@ namespace MVC__Task4.Models
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<Product_Table> Product_Table { get; set; }
+        public virtual DbSet<Product> Products { get; set; }
     }
 }
