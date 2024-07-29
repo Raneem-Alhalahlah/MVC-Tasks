@@ -1,0 +1,73 @@
+﻿@model Task6_MVC.Models.loginTask6
+
+@{
+    ViewBag.Title = "Profile";
+}
+@if (ViewBag.Message != null)
+{
+    <script type="text/javascript">
+            alert('@ViewBag.Message');
+    </script>
+}
+
+
+<h2>Profile</h2>
+
+@using (Html.BeginForm("Profile", "Coders", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.userID)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.userName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.userName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.userName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.userEmail, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.userEmail, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.userEmail, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.userPassword, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.userPassword, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.userPassword, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <img src="~/Images/@Model.userImg" alt="Alternate Text" width="100" height="100" />
+        </div>
+        <div class="form-group">
+            <label>Image</label>
+
+            <div class="col-md-10">
+                <input type="file" name="upload" value="" />
+            </div>
+        </div>
+        <br />
+        <div class="form-group">
+            @Html.ActionLink("Reset Password", "ResetPasswordt", "Coders", new { area = "" }, new { @class = "btn btn-info" })
+        </div>
+
+
+        <br />
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+}

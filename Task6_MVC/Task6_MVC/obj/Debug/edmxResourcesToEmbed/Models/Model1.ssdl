@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Task6_loginModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="loginTask6">
+    <Key>
+      <PropertyRef Name="userID" />
+    </Key>
+    <Property Name="userID" Type="int" Nullable="false" />
+    <Property Name="userName" Type="varchar" MaxLength="30" />
+    <Property Name="userEmail" Type="varchar" MaxLength="100" />
+    <Property Name="userPassword" Type="varchar" MaxLength="50" />
+    <Property Name="userImg" Type="varchar(max)" />
+  </EntityType>
+  <EntityContainer Name="Task6_loginModelStoreContainer">
+    <EntitySet Name="loginTask6" EntityType="Self.loginTask6" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

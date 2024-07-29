@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Task6_loginModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="loginTask6">
+    <Key>
+      <PropertyRef Name="userID" />
+    </Key>
+    <Property Name="userID" Type="Int32" Nullable="false" />
+    <Property Name="userName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="userEmail" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="userPassword" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="userImg" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="Task6_loginEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="loginTask6" EntityType="Self.loginTask6" />
+  </EntityContainer>
+</Schema>
