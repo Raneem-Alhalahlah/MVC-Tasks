@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "admin";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Add Item</h2>
+
+@using (Html.BeginForm("admin", "Market", FormMethod.Post))
+{
+    <div>
+        <label>Image URL:</label>
+        <input type="text" name="ImageUrl" />
+    </div>
+    <div>
+        <label>Name:</label>
+        <input type="text" name="Name" />
+    </div>
+    <div>
+        <label>Price:</label>
+        <input type="text" name="Price" />
+    </div>
+    <input type="submit" value="Save" />
+}

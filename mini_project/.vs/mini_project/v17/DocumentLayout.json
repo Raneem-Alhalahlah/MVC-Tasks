@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\mini_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{818EB212-81F3-4C50-B44B-1F6D0AF6C34D}|mini_project\\mini_project.csproj|C:\\Users\\Orange\\Desktop\\mini_project\\mini_project\\views\\market\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818EB212-81F3-4C50-B44B-1F6D0AF6C34D}|mini_project\\mini_project.csproj|solutionrelative:mini_project\\views\\market\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818EB212-81F3-4C50-B44B-1F6D0AF6C34D}|mini_project\\mini_project.csproj|C:\\Users\\Orange\\Desktop\\mini_project\\mini_project\\views\\market\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818EB212-81F3-4C50-B44B-1F6D0AF6C34D}|mini_project\\mini_project.csproj|solutionrelative:mini_project\\views\\market\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818EB212-81F3-4C50-B44B-1F6D0AF6C34D}|mini_project\\mini_project.csproj|c:\\users\\orange\\desktop\\mini_project\\mini_project\\controllers\\marketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818EB212-81F3-4C50-B44B-1F6D0AF6C34D}|mini_project\\mini_project.csproj|solutionrelative:mini_project\\controllers\\marketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\mini_project\\mini_project\\Views\\Market\\admin.cshtml",
+              "RelativeDocumentMoniker": "mini_project\\Views\\Market\\admin.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\mini_project\\mini_project\\Views\\Market\\admin.cshtml",
+              "RelativeToolTip": "mini_project\\Views\\Market\\admin.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T06:57:59.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "user.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\mini_project\\mini_project\\Views\\Market\\user.cshtml",
+              "RelativeDocumentMoniker": "mini_project\\Views\\Market\\user.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\mini_project\\mini_project\\Views\\Market\\user.cshtml",
+              "RelativeToolTip": "mini_project\\Views\\Market\\user.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T06:56:09.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarketController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\mini_project\\mini_project\\Controllers\\MarketController.cs",
+              "RelativeDocumentMoniker": "mini_project\\Controllers\\MarketController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\mini_project\\mini_project\\Controllers\\MarketController.cs",
+              "RelativeToolTip": "mini_project\\Controllers\\MarketController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwBYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T06:55:08.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
